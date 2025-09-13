@@ -1,29 +1,22 @@
 # organicCart
 
-🚀 Features
+## ✨ Features  
+- 🔑 **Authentication** – User login/signup with JWT  
+- 🛍️ **Products** – CRUD operations for admins  
+- 🛒 **Cart System** – Add/remove items  
+- 💳 **Payments** – Stripe   
+- 📦 **Orders** – Place & track orders  
+- 📱 **Responsive UI** – Built with CSS  
 
-🔑 User authentication with JWT
+---
 
-🛍️ Product management (CRUD for admin)
+## 🛠️ Tech Stack  
 
-🛒 Shopping cart & order system
+| Frontend | Backend | Database | Payments |
+|----------|----------|----------|-----------|
+| ⚛️ React | 🟢 Node.js | 🍃 MongoDB | 💳 Stripe  |
+| 🎨  CSS | 🚂 Express.js | 🗄️ Mongoose | 🔐 JWT |
 
-💳 Secure online payments (Stripe)
+---
 
-📦 Order history & tracking
 
-📊 Responsive UI with React & Tailwind
-
-🌐 RESTful APIs using Express.js
-
-🛠️ Tech Stack
-
-Frontend: React.js,  CSS, Axios
-
-Backend: Node.js, Express.js
-
-Database: MongoDB (Mongoose ODM)
-
-Auth: JSON Web Tokens (JWT), bcrypt
-
-Payments: Stripe 
