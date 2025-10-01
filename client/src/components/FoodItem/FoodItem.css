@@ -1,7 +1,30 @@
 .food-item{
-
+width: 100%;
+margin: auto;
+border-radius: 15px;
+box-shadow: 0px 0px 10px #000015 ;
+animation: fadeIn 1s;
 }
 
 .food-item-image-container{
-    
+width: 100%;
+}
+.food-item-image-container img{
+    width: 100%;
+    border-radius: 15px 15px 0px 0px;
+}
+.food-item-info{
+    padding: 20px;
+
+
+
+}
+
+.food-item-name-rating{
+display: flex;
+justify-content: space-between;
+align-items: center;
+margin-bottom: 10px;
+
+
 }
